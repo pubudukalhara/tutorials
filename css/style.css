@@ -35,7 +35,7 @@ ul li{
 /*Main Css starts*/
 
 .wrapper{
-	width:960px;
+	width:950px;
 	margin:0 auto;
 }
 
@@ -56,10 +56,11 @@ ul li{
 .navigation{
 	padding:0px;
 	text-align:center;
+
 }
 
 .navigation ul li{
-	border-right:1px solid #CCCCCC;
+	border-right:1px solid #0084FF;
 	position:relative;
 	display:inline;		
 
@@ -75,7 +76,7 @@ ul li{
 }
 
 .navigation ul li a:hover{
-	color:#999999;
+	color:#0084FF;
 }
 
 .navigation ul li a.active{
@@ -170,7 +171,7 @@ ul.gallery li{
 
 ul.gallery li img{
 	border-radius:5px;
-	border:1px solid #000000;
+	border:2px solid #0084FF.;
 }	 	
 
 
