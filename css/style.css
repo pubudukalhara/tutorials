@@ -3,8 +3,8 @@
 /*Global Css starts*/
 
 *{
-	padding:0px;
-	margin:0px;
+	padding:1px;
+	margin:1px;
 }
 
 
@@ -35,7 +35,7 @@ ul li{
 /*Main Css starts*/
 
 .wrapper{
-	width:950px;
+	width:1000px;
 	margin:0 auto;
 }
 
